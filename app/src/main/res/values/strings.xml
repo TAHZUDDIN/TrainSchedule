@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrainSchedule</string>
+
+
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="submit">SUBMIT</string>
+    <string name="tran_no">Train Tracker --- 12345</string>
+
+
+
+</resources>

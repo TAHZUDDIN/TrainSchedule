@@ -1,0 +1,74 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_height48">48dp</dimen>
+    <dimen name="item_height36">36dp</dimen>
+    <dimen name="item_height40">40dp</dimen>
+
+
+    <!-- Margin values -->
+
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_mini">4dp</dimen>
+    <dimen name="margin_supermini">2dp</dimen>
+    <dimen name="margin_midsmall">12dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <!-- Text Sizes -->
+    <dimen name="font_mini">10sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+    <dimen name="font_medium">14sp</dimen>
+    <dimen name="font_large">16sp</dimen>
+    <dimen name="font_15sp">15sp</dimen>
+    <dimen name="font_xlarge">18sp</dimen>
+    <dimen name="font_xxlarge">20sp</dimen>
+    <dimen name="font_xxxlarge">24sp</dimen>
+    <dimen name="font_xxxxlarge">36sp</dimen>
+    <dimen name="cart_count_size_bg">18dp</dimen>
+    <dimen name="cart_item_count_text">12sp</dimen>
+
+    <!--- profile Page-->
+    <dimen name="image_width">120dp</dimen>
+    <dimen name="image_final_width">32dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+    <!--Upload post page-->
+    <dimen name="item_height100">100dp</dimen>
+    <!--facebook buttons margin-->
+    <dimen name="fb_margin_override_top">13dp</dimen>
+    <dimen name="fb_margin_override_bottom">13dp</dimen>
+    <!--The next value changes the margin between the FB icon and the left border:-->
+    <dimen name="fb_margin_override_lr">10dp</dimen>
+    <!--The next value changes the margin between the FB icon and the login text:-->
+    <dimen name="fb_margin_override_textpadding">17dp</dimen>
+
+
+    <!--inflating_layout_news.xml -->
+    <dimen name="news_inflating_layout_height">107dp</dimen>
+    <dimen name="news_inflating_layout_mrginbottm">14dp</dimen>
+    <dimen name="news_inflating_date_textsize">10sp</dimen>
+    <dimen name="news_inflating_title_textsize">18sp</dimen>
+    <dimen name="news_description_margintop">3dp</dimen>
+    <dimen name="news_margintop_bottom">7dp</dimen>
+
+
+    <!--layout_news_mainview.xml -->
+    <dimen name="news_recycleview_margintop">10dp</dimen>
+    <dimen name="news_textsize_description">11sp</dimen>
+
+
+    <!--corner_round.xml -->
+    <dimen name="radius_corner">10dp</dimen>
+    <dimen name="radius_cornertwentydp">20dp</dimen>
+    <dimen name="radius_cornerthirtydp">30dp</dimen>
+    <dimen name="radius_cornerfortydp">40dp</dimen>
+    <dimen name="padding_height">8dp</dimen>
+    <dimen name="pointer_height">8dp</dimen>
+    <dimen name="padding_tendp">10dp</dimen>
+    <dimen name="padding_fifteendp">15dp</dimen>
+
+    <dimen name="linearLayout_height">800dp</dimen>
+
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LL_staion_inflating"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="left|center_vertical"
+    >
+    <TextView
+        android:id="@+id/id_station_nameTVRight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/font_medium"
+        android:textColor="@color/colorGrey700"
+        android:textStyle="bold"
+
+        android:text="HOWRAH JN"/>
+
+
+
+
+</LinearLayout>
